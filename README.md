@@ -17,6 +17,8 @@ This framework can read the deeplearning model training from keras, loop test ev
 `rc build`
 ## run a model
 `main <rungtag> <category>`
+
+eg. `main test_scale 0`
  
 The `runtag` is a str to represent a dedicated training process. \
 The `category` has to be in {0,1,2,3}, these numbers correspond to four categories: `[2jet,3jet] X [even, odd]`.\
