@@ -28,9 +28,9 @@ This is a standalone eventloop framework which dont have strong dependant on the
 
 # Usage:
 
-`git clone git@github.com:heymanwasup/NNReader`/
-`cd NNReader/Standalone`/
-`source setup.sh`/
+`git clone git@github.com:heymanwasup/NNReader`\
+`cd NNReader/Standalone`\
+`source setup.sh`\
 `make`
 
 
